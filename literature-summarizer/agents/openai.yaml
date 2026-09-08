@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献总结分析"
+  short_description: "读取文献并结构化总结研究背景、方法、内容与结果"
+  default_prompt: "使用 $literature-summarizer 阅读该文献文件，输出研究背景、研究方法、研究内容与研究结果的结构化总结。"
